@@ -3,7 +3,7 @@ kaggleの記録です。
 
 # ディレクトリ構造
 
-```mermeid
+```mermaid
 kaggle-competitions/
 ├── README.md
 ├── competitions/
